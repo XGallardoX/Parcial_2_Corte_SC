@@ -1,0 +1,13 @@
+Punto 1:
+Que es complejidad y dese este modelo como se describe la complejidad 
+
+Punto 2:
+Excelente, no tocar
+
+Punto 3:
+Sobre un aplicación, definir una interacción entre cliente y servidor y hacer la app así
+
+Punto 4: problema de la vida real como la constante mejora o empeora complejidad computacional del algoritmo, tolerancia cada paso constante delta 
+
+Punto 5: 
+Hacer más pruebas con diferentes parámetros 2 o 3 o 20, como sería umbral de confianza, para cada agente umbral y mu cambian aleatoriamente
